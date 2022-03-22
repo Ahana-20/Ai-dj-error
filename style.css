@@ -1,0 +1,62 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+}
+
+.note{
+    font-size: 15px;
+}
+
+body{
+    background-size:80%;
+   
+}
+
+.speed{
+    float: left;
+}
+
+.speedImg{
+    width: 200px;
+    border-radius: 100px;
+    margin: 20px;
+}
+
+#SPEEED{
+    margin:15px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.volumeImg{
+    width: 200px;
+    border-radius: 100px;
+    margin: 20px;
+}
+
+#VOLUME{
+    margin:15px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.volume{
+    float:right;
+}
+
+#gana{
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+canvas{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 25px;
+}
